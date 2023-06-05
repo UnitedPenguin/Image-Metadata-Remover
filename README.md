@@ -29,3 +29,7 @@ A window will open, presenting a simple GUI. Drag and drop an image file (JPEG, 
 * Pillow 
 * piexif 
 3. run the script from the console. (script is found in source code file)
+
+# License
+
+This project is licensed under the MIT License. For more details, see the LICENSE file.
