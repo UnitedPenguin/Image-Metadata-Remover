@@ -14,12 +14,6 @@ A window will open, presenting a simple GUI. Drag and drop an image file (JPEG, 
 
     Metadata removal: The primary function of this application is to strip images of their metadata, enhancing user privacy.
 
-# For Users of the Executable Version
-
-1. download the Image-Metadata-Remover zip file.
-2. run the meta_data_remover.exe application.
-3. drag and drop images into the program.
-
 # For Users of the python Version
 
 1. Clone this repository to your local machine
